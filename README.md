@@ -1,1 +1,1 @@
-# CryptoPunks-AA
+# CryptoPunks project
